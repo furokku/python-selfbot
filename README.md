@@ -1,6 +1,6 @@
 # python-selfbot
 
-simple python selfbot written by me.
+python selfbot that will spam your message whereever you type `start.spam` while bot is active
 
 # how to use
 1. download .py file, make sure you have discord.py installed with pip
